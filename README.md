@@ -1,6 +1,4 @@
 # CIFRA DE CEZAR - CRIPTOGRAFIA👋
-
-## Sobre este velho...
 É um tipo de cifra de substituição na qual cada letra do texto é substituída por outra, que se apresenta no alfabeto abaixo dela um número fixo de vezes.
 
 ## Tecnologias que estou explorando hoje
