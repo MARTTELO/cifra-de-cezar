@@ -57,6 +57,10 @@ body{
     font-size: var(--tamanho-da-fonte);
 }
 
+.botao:hover{
+    background-color: rgb(0,0,0);
+}
+
 .invisivel{
     display: none;
 }
